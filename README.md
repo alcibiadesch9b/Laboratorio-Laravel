@@ -321,9 +321,8 @@ Durante la ejecución del laboratorio se presentaron las siguientes complicacion
 
 ### 🎓 Información del estudiante
 
-Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
 
-**Nombre:** Alcibiades Chanis Viadés
+**Nombre:** Alcibiades Chanis Alfonso Flores
 **Cédula:** 8-1021-1306
 **Correo:** alcibiades.chanis@utp.ac.pa
 **Curso:** 1S3122
